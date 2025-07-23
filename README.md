@@ -39,12 +39,17 @@ We offer a **complete solution** for the ZLT X28 modem — from **network unlock
 
 ---
 
-<!-- Two full-width images with natural height based on tallest one -->
-<div style="display: flex; width: 100%;">
-  <img src="zlt-x28.jpg" alt="ZLT X28 UI" style="width: 50%; object-fit: contain; display: block;" />
-  <img src="ooredoo.jpg" alt="Ooredoo Modem" style="width: 50%; object-fit: contain; display: block;" />
-</div>
-
+<!-- Table layout for perfect side-by-side images with equal height look -->
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="zlt-x28.jpg" alt="ZLT X28 UI" style="width: 100%; display: inline-block;" />
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="ooredoo.jpg" alt="Ooredoo Modem" style="width: 100%; display: inline-block;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
