@@ -39,11 +39,12 @@ We offer a **complete solution** for the ZLT X28 modem — from **network unlock
 
 ---
 
-<!-- Full-width, equal-height image row -->
+<!-- Two full-width images with natural height based on tallest one -->
 <div style="display: flex; width: 100%;">
-  <img src="zlt-x28.jpg" alt="ZLT X28 UI" style="width: 50%; height: 450px; object-fit: cover;" />
-  <img src="ooredoo.jpg" alt="Ooredoo Modem" style="width: 50%; height:450px; object-fit: cover;" />
+  <img src="zlt-x28.jpg" alt="ZLT X28 UI" style="width: 50%; object-fit: contain; display: block;" />
+  <img src="ooredoo.jpg" alt="Ooredoo Modem" style="width: 50%; object-fit: contain; display: block;" />
 </div>
+
 
 ---
 
