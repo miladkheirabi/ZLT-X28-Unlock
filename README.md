@@ -29,27 +29,21 @@ We offer a **complete solution** for the ZLT X28 modem — from **network unlock
 
 | Model    | Software Version |
 |----------|------------------|
-| ZLT X28  | 1.5.13 or Lower  |
+| ZLT X28  | 1.5.13  or Lower |
 
 ---
 
 ### 📞 Get in Touch
 
-📬 **Telegram**: [@x28_ZLT_unlock](https://t.me/x28_ZLT_unlock)
+📬 **Telegram**: [@X28_ZLT_unlock](https://t.me/X28_ZLT_unlock)
 
 ---
 
-<!-- Two equal-height side-by-side images -->
-<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <td width="50%" style="padding: 0;">
-      <img src="zlt-x28.jpg" alt="ZLT X28 UI" style="width: 100%; height: 250px; object-fit: cover; display: block;" />
-    </td>
-    <td width="50%" style="padding: 0;">
-      <img src="ooredoo.jpg" alt="Ooredoo Modem" style="width: 100%; height: 250px; object-fit: cover; display: block;" />
-    </td>
-  </tr>
-</table>
+<!-- Full-width, equal-height image row -->
+<div style="display: flex; width: 100%;">
+  <img src="zlt-x28.jpg" alt="ZLT X28 UI" style="width: 50%; height: 300px; object-fit: cover;" />
+  <img src="ooredoo.jpg" alt="Ooredoo Modem" style="width: 50%; height: 300px; object-fit: cover;" />
+</div>
 
 ---
 
