@@ -6,7 +6,9 @@
 
 ### ✨ Unlock the Full Potential of Your ZLT X28 Modem
 
-<img src="zlt.jpg" alt="ZLT X28" width="400"/>
+<p align="center">
+  <img src="zlt.jpg" alt="ZLT X28" style="max-width: 400px; width: 100%;"/>
+</p>
 
 We offer a **complete solution** for the ZLT X28 modem — from **network unlocking** to building a **custom admin panel** with your own branding. Whether you're an individual user or a reseller, our tools and services will give you full control over your device.
 
@@ -14,12 +16,12 @@ We offer a **complete solution** for the ZLT X28 modem — from **network unlock
 
 ### ✅ What We Offer
 
-- 🔓 **Network Unlocking** – Use any SIM card from any network
-- 🔧 **Admin Panel Access** – Gain full administrative control
-- 🛠 **Firmware Updates & Upgrades** – Stay secure and up to date
-- 🎨 **Custom Admin UI** – Tailored with your logo, colors, and theme
-- 📦 **Bulk & Individual Packages** – Flexible options for all needs
-- 🎓 **Guided Training** – Step-by-step instructions included
+- 🔓 **Network Unlocking** – Use any SIM card from any network  
+- 🔧 **Admin Panel Access** – Gain full administrative control  
+- 🛠 **Firmware Updates & Upgrades** – Stay secure and up to date  
+- 🎨 **Custom Admin UI** – Tailored with your logo, colors, and theme  
+- 📦 **Bulk & Individual Packages** – Flexible options for all needs  
+- 🎓 **Guided Training** – Step-by-step instructions included  
 
 ---
 
@@ -27,21 +29,30 @@ We offer a **complete solution** for the ZLT X28 modem — from **network unlock
 
 | Model    | Software Version |
 |----------|------------------|
-| ZLT X28  | 1.5.13 or lower  |
+| ZLT X28  | 1.5.13           |
 
 ---
 
 ### 📞 Get in Touch
 
-📬 **Telegram**: [@x28_ZLT_unlock](https://t.me/X28_ZLT_unlock)
+📬 **Telegram**: [@x28_zlt_unlock](https://t.me/x28_zlt_unlock)
 
 ---
 
-<img src="zlt-x28.jpg" alt="ZLT X28 UI" width="300"/>
-<img src="ooredoo.jpg" alt="Ooredoo Modem" width="300"/>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="zlt-x28.jpg" alt="ZLT X28 UI" style="width: 100%;"/>
+    </td>
+    <td width="50%">
+      <img src="ooredoo.jpg" alt="Ooredoo Modem" style="width: 100%;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏷️ Tags
 
-`#ZLT_X28` `#ModemUnlock` `#CustomAdminPanel` `#FirmwareUpgrade` `#4GModem` `#NetworkUnlock` `#ZLTAdminAccess` `#ModemBranding`
+`#ZLT_X28` `#ModemUnlock` `#CustomAdminPanel` `#FirmwareUpgrade`  
+`#4GModem` `#NetworkUnlock` `#ZLTAdminAccess` `#ModemBranding`
